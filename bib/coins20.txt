@@ -1,0 +1,8 @@
+@INPROCEEDINGS{najari2020,
+  author={Najari, Naji and Berlemont, Samuel and Lefebvre, Grégoire and Duffner, Stefan and Garcia, Christophe},
+  booktitle={2020 International Conference on Omni-layer Intelligent Systems (COINS)}, 
+  title={Network Traffic Modeling For IoT-device Re-identification}, 
+  year={2020},
+  pages={1-6}
+}
+
