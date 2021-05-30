@@ -2,7 +2,6 @@
 title: "Network Traffic Modeling For IoT-device Re-identification"
 collection: publications
 permalink: /publications/coins20
-excerpt: ''
 date: 2020-09-10
 venue: 'IEEE International Conference on Omni-layer Intelligent Systems, 2020.'
 
