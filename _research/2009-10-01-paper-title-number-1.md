@@ -2,8 +2,8 @@
 title: "Network Traffic Modeling For IoT-device Re-identification"
 collection: research
 permalink: /research/coins20
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020
+excerpt: ''
+date: 2020-09-10
 venue: 'IEEE International Conference on Omni-layer Intelligent Systems, 2020.'
 
 citation: 'NAJARI N., BERLEMONT S., LEFEBVRE G., DUFFNER S., GARCIA C.
