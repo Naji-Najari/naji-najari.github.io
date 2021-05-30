@@ -6,7 +6,7 @@ date: 2020-09-10
 venue: 'IEEE International Conference on Omni-layer Intelligent Systems, 2020.'
 
 citation: 'N. Najari, S. Berlemont, G. Lefebvre, S. Duffner and C. Garcia, "Network Traffic Modeling For IoT-device Re-identification," 2020 International Conference on Omni-layer Intelligent Systems (COINS), 2020.'
-'
+
 ---
 DOI: [10.1109/COINS49042.2020.9191376](10.1109/COINS49042.2020.9191376)
 
