@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1111111111"
-collection: research
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Network Traffic Modeling For IoT-device Re-identification"
+collection: publications
+permalink: /publications/coins20
+excerpt: ''
+date: 2020-09-10
+venue: 'IEEE International Conference on Omni-layer Intelligent Systems, 2020.'
+
+citation: 'NAJARI N., BERLEMONT S., LEFEBVRE G., DUFFNER S., GARCIA C.
+'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+DOI: [10.1109/COINS49042.2020.9191376](10.1109/COINS49042.2020.9191376)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Paper](https://ieeexplore.ieee.org/document/9191376), [Pre-recorded presentation](https://youtu.be/6X-NsWUzPEU), [Bibtex]()
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Abstract:
+> Internet of Things (IoT) devices are nowadays increasingly ubiquitous not only in industry but also in human daily routines. This fast expansion is the cornerstone of new challenges such as device heterogeneity, interoperability, etc. To securely build a sustainable IoT ecosystem, we start by accurately identifying all connected equipment. In this paper, we propose an accurate IoT device re-identification approach that models the network activity of devices connected to a Local Area Network by analyzing their traffic traces. Based on a device operating history, this approach learns a behavioral baseline of each appliance using two machine learning algorithms: Markov Models and Long Short Term Memory Recurrent Neural Networks. Then, re-identification is performed by selecting the closest model representing the device activity. We compare the performance of both methods using two public datasets containing network traffic traces of different IoT equipment that cover common use cases in smart homes, such as cameras, health monitoring, smart plugs, or smart sensors.
+
