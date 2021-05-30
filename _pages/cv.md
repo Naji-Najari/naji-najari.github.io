@@ -20,6 +20,7 @@ Work experience
 Skills
 ======
 * 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
