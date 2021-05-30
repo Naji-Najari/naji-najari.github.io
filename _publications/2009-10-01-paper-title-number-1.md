@@ -3,7 +3,7 @@ title: "Network Traffic Modeling For IoT-device Re-identification"
 collection: publications
 permalink: /publications/coins20
 date: 2020-09-10
-venue: 'IEEE International Conference on Omni-layer Intelligent Systems, 2020.'
+venue: 'IEEE International Conference on Omni-layer Intelligent Systems'
 
 citation: 'N. Najari, S. Berlemont, G. Lefebvre, S. Duffner and C. Garcia, "Network Traffic Modeling For IoT-device Re-identification," 2020 International Conference on Omni-layer Intelligent Systems (COINS), 2020.'
 
