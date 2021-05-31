@@ -8,7 +8,6 @@ citation: 'N. Najari, S. Berlemont, G. Lefebvre, S. Duffner and C. Garcia, "Netw
 tags: "conf"
 ---
 Links: [Paper](https://ieeexplore.ieee.org/document/9191376), [Pre-recorded presentation](https://youtu.be/6X-NsWUzPEU), [Bibtex](https://naji-najari.github.io/bib/coins20.txt)
-DOI [10.1109/COINS49042.2020.9191376](10.1109/COINS49042.2020.9191376)
 
 
 Abstract:

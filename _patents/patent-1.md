@@ -7,4 +7,5 @@ Inventors: S. Berlemont, N. Najari, G. Lefebvre
 venue: Orange
 ---
 
+Authors: S. Berlemont, N. Najari, G. Lefebvre, Orange 2020
 
