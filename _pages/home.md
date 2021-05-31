@@ -24,12 +24,12 @@ Contact Information
 
 
 
-<div class="image123" style="display: flex; justify-content: space-between;">
+<div class="image123" style="display: block; justify-content: center; margin:auto;">
     <div class="imgContainer">
         <img src="https://naji-najari.github.io/images/orange.png"  width="150"/>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="150"/>
+        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="200"/>
     </div>
     <div class="imgContainer">
          <img src="https://naji-najari.github.io/images/liris.png"  width="150"/>
