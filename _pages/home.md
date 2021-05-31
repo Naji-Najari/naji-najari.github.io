@@ -29,7 +29,7 @@ Contact Information
         <img src="https://naji-najari.github.io/images/orange.png"  width="70"/>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="200"/>
+        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="220"/>
     </div>
     <div class="imgContainer">
          <img src="https://naji-najari.github.io/images/liris.png"  width="150"/>
