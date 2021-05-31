@@ -24,7 +24,7 @@ Contact Information
 
 
 
-<div class="image123">
+<div class="image123" style="display: flex; justify-content: space-between;">
     <div class="imgContainer">
         <img src="https://naji-najari.github.io/images/orange.png" height="200" width="200"/>
     </div>
