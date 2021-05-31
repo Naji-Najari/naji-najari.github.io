@@ -12,7 +12,9 @@ author_profile: true
 
 * May 2021: I am invited to review three papers in the track Machine Learning and Artificial Neural Networks of the conference [ICANN](https://e-nns.org/icann2021/) (International Conference on Artificial Neural Networks).
 
-* February 2020: I attended the [5th GDR RSD and ASF Winter School on Distributed Systems and Networks](https://sites.google.com/site/rsdwinterschool/home).
+* September 2020: [One paper](https://naji-najari.github.io/publications/coins20) accepted at the conference IEEE COINS 2020.
+
+* February 2020: I attended the [5th GDR RSD and ASF Winter School on Distributed Systems and Networks](https://sites.google.com/site/rsdwinterschool/home). I presented my PhD in the doctoral workshop. Slides are available [here](https://github.com/Naji-Najari/naji-najari.github.io/blob/master/Presentation.pdf).
 
 * November 2019: I started my PhD at Orange Labs and INSA Lyon, directed by [Christophe GARCIA (LIRIS)](https://christophegarciafr.wixsite.com/home-page/) and co-supervised by [Stefan DUFFNER (LIRIS)](http://u0016403263.user.hosting-agency.de/), [Grégoire LEFEBVRE (Orange Labs)](https://sites.google.com/site/gregoirelefebvre2/), and [Samuel BERLEMONT (Orange Labs)](https://dblp.org/pid/134/0509.html). 
 
