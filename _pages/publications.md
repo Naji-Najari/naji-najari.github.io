@@ -15,7 +15,7 @@ author_profile: true
 International Conferences
 ------
 {% for post in site.publications reversed %}
-{% if post.tags == conf %}
+{% if post.tags == "conf" %}
   {% include archive-single.html %}
 {% endif %}
 {% endfor %}
