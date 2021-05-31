@@ -25,7 +25,7 @@ Contact Information
 
 <p float="left">
   <img src="https://naji-najari.github.io/images/orange.png" style="border:0px;margin:0px;float:left;width:150px;" />
-  <img src="https://naji-najari.github.io/images/insa.png" style="text-align: center;;width:150px;"/> 
+  <img src="https://naji-najari.github.io/images/insa.png" style="text-align: center;width:150px;"/> 
   <img src="https://naji-najari.github.io/images/liris.png" style="border:0px;margin:0px;float:right;width:150px;" />
 </p>
 
