@@ -24,8 +24,8 @@ Contact Information
 
 
 <p float="left">
-  <img src="images/orange.png" width="100" />
-  <img src="images/insa.png" width="100" /> 
-  <img src="images/liris.png" width="100" />
+  <img src="https://naji-najari.github.io/images/orange.png" width="100" />
+  <img src="https://naji-najari.github.io/images/insa.png" width="100" /> 
+  <img src="https://naji-najari.github.io/images/liris.png" width="100" />
 </p>
 
