@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+
+International Conferences
+------
+{% for post in site.publications.conf reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Reviewer
+------
