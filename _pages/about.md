@@ -24,3 +24,19 @@ Contact Information
 * Email: naji.najari@orange.com
 * Phone: 
 * Mail: Orange Labs, 28 Chemin du Vieux Chêne, 38240 Meylan.
+
+
+
+<div class="image123" style="display: flex; justify-content: space-between;margin:auto;">
+    <div class="imgContainer">
+        <img src="https://naji-najari.github.io/images/orange.png"  width="100"/>
+    </div>
+    <div class="imgContainer">
+        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="200"/>
+    </div>
+    <div class="imgContainer">
+         <img src="https://naji-najari.github.io/images/liris.png"  width="150"/>
+    </div>
+</div>
+
+
