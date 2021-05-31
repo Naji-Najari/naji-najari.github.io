@@ -27,16 +27,18 @@ Contact Information
 
 
 
-<div class="image123" style="display: flex; justify-content: space-between;margin:auto;">
+<div class="image123" style="display: flex; justify-content: space-between;">
+    
     <div class="imgContainer">
-        <img src="https://naji-najari.github.io/images/orange.png"  width="70"/>
+        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="250"/>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"  width="200"/>
+        <img src="https://naji-najari.github.io/images/orange.png"  width="70"/>
     </div>
     <div class="imgContainer">
          <img src="https://naji-najari.github.io/images/liris.png"  width="150"/>
     </div>
 </div>
+
 
 
