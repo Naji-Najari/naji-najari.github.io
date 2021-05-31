@@ -1,10 +1,10 @@
 ---
 permalink: /home/
 title: "Naji NAJARI"
-excerpt: "About me"
 
 ---
 
+{% include base_path %}
 
 Short Bio
 ------
