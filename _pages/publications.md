@@ -14,7 +14,7 @@ author_profile: true
 
 International Conferences
 ------
-<hr style="border:1px solid gray"> 
+<hr style="border:0.7px solid gray"> 
 {% for post in site.publications reversed %}
 {% if post.tags  contains "conf" %}
   {% include archive-single.html %}
@@ -24,5 +24,5 @@ International Conferences
 
 Reviewer
 ------
-<hr style="border:1px solid gray"> 
+<hr style="border:0.7px solid gray"> 
 * [ICANN'21](https://e-nns.org/icann2021/): The 30th International Conference on Artificial Neural Networks, 2021. 
