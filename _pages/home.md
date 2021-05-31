@@ -29,10 +29,10 @@ Contact Information
         <img src="https://naji-najari.github.io/images/orange.png" height="200" width="200"/>
     </div>
     <div class="imgContainer">
-        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png"/ height="200" width="200"/>
+        <img class="middle-img" src="https://naji-najari.github.io/images/insa.png" height="200" width="200"/>
     </div>
     <div class="imgContainer">
-         <img src="https://naji-najari.github.io/images/liris.png"/ height="200" width="200"/>
+         <img src="https://naji-najari.github.io/images/liris.png" height="200" width="200"/>
     </div>
 </div>
 
