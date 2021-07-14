@@ -64,7 +64,7 @@ Languages
 ======
 * __Arabic__: Native Language
 * __French__: Fluent
-* __French__: Fluent
+* __English__: Fluent
 * __Spanish__: Basic
 
 Publications
