@@ -22,6 +22,6 @@ Anomaly Detection, Deep Learning, Machine Learning, IoT, Smart Home, Device Mana
 Contact Information
 ------
 * Email: naji.najari@orange.com
-* Phone: 
+* Phone: +33 4 38 42 80 65
 * Mail: Orange Labs, 28 Chemin du Vieux Chêne, 38240 Meylan.
 
