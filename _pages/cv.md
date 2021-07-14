@@ -43,14 +43,14 @@ __Preparatory classes for the grandes écoles (CPGE: Classes Préparatoires aux 
 
 Work experience
 ======
-* `Feb 2018- Aug 2019`
+* `Feb 2018 - Aug 2019`
 __R&D internship__
 	- Orange Labs Meylan & Ensimag
 	- Title : IoT device reindentification using machine learning
 	- Topics : data science, time-series modeling, network traffic analysis, IoT, LSTMs, HMMs.
 	- supervised by [Samuel BERLEMONT (Orange Labs)](https://dblp.org/pid/134/0509.html) and [Martin Heusse (Ensimag)](http://lig-membres.imag.fr/heusse/). 
 
-* `Jun 2018- Aug 2018`
+* `Jun 2018 - Aug 2018`
 __Internship in  mobile application development__	
 	- [LSI technologies](http://www.lsitechnologies.fr/)
   
