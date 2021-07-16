@@ -21,6 +21,15 @@ International Conferences
 {% endif %}
 {% endfor %}
 
+Preprint
+------
+<hr style="border:0.7px solid gray"> 
+{% for post in site.publications reversed %}
+{% if post.tags  contains "preprint" %}
+  {% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
 
 Reviewer
 ------
