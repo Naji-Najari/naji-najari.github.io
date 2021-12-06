@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-* `July 2021`: A new preprint is available : [Training Outlier Rejection for Unsupervised Anomaly Detection](https://naji-najari.github.io/publications/preprint1)
+* `December 2021`: A new paper is accepted at the 14th International Conference on Security of Information and Networks ([SIN](https://www.sinconf.org/sin2021/)), 2021. Click [here](https://naji-najari.github.io/publications/sin21) for more details. 
 
 * `June 2021`: I presented my PhD to the [scientific committee of Orange](https://www.orange.com/fr/conseil-scientifique).
 
