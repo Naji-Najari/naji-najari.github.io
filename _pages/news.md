@@ -7,6 +7,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+* `January 2022`: A new paper is accepted at the 36th International Conference on Advanced Information Networking and Applications   ([AINA](http://voyager.ce.fit.ac.jp/conf/aina/2022/)), 2022. Click [here](https://naji-najari.github.io/publications/aina22) for more details. 
+
+
 * `December 2021`: A new paper is accepted at the 14th International Conference on Security of Information and Networks ([SIN](https://www.sinconf.org/sin2021/)), 2021. Click [here](https://naji-najari.github.io/publications/sin21) for more details. 
 
 * `June 2021`: I presented my PhD to the [scientific committee of Orange](https://www.orange.com/fr/conseil-scientifique).
