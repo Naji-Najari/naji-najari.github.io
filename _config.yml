@@ -14,7 +14,7 @@ description              : &description "PhD student at Orange & INSA Lyon"
 url                      : https://naji-najari.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naji-najari/naji-najari.github.io"
-teaser                   :  "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://fr.linkedin.com/in/naji-najari"
   orcid            : "http://orcid.org/0000-0002-8143-8201"
   pinterest        :
   soundcloud       :
