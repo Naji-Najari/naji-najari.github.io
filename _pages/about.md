@@ -17,7 +17,7 @@ I am a PhD student at Orange Labs and INSA Lyon in the team [IMAGINE (LIRIS)](ht
 
 My PhD is entitled "robust unsupervised anomaly detection, applied to network traffic monitoring". It focuses on detecting anomalous behaviors of smart home IoT devices using Deep Learning algorithms (Artificial Neural Networks).
 
-My CV: click [here](https://naji-najari.github.io/cv.pdf)
+My CV is [here](https://naji-najari.github.io/cv.pdf)
 
 
 Research Topics
