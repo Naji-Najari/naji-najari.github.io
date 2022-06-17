@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Naji NAJARI"
-  avatar           : "profile.png"
+  avatar           : "Photo.jpg"
   bio              : "PhD student at Orange & INSA Lyon"
   location         : "Grenoble, France"
-  employer         :
+  employer         : "Orange"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rkgpg1gAAAAJ&hl=fr"
   email            : "naji.najari@orange.com"
