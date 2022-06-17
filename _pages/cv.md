@@ -69,14 +69,15 @@ __Preparatory classes for the grandes écoles (CPGE: Classes Préparatoires aux 
 Skills
 ======
 * __Theoretical__: Anomaly detection, Data mining and pattern recognition, Machine learning, Time-series analysis.
-* __Programming__:  Python, C, Java, R, Javascript, ELK (Elasticsearch, Logstash, Kibana), Git, Bash.  
-* __Machine Learning and Data Processing__: Pytorch, Keras, Spark, Kafka, Tune.
+* __Programming__:  Python, C, Java, R, Javascript, ELK (Elasticsearch, Logstash, Kibana), Git.  
+* __Machine Learning and Data Processing__: Pytorch, Tensorflow, PySpark, Kafka, Tune.
 
 Languages
 ======
-* __Arabic__: Native Language
+
 * __French__: Fluent
 * __English__: Fluent
+* __Arabic__: Native Language
 * __Spanish__: Basic
 
 Publications
