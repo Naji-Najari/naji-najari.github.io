@@ -24,7 +24,7 @@ Research Topics
 ------
 Anomaly Detection, Machine Learning, Time Series Analysis, Robust Training, Extreme Value Theory, Data Processing, Internet of Things (IoT), Smart Home and Device Management.
 
-![Anomaly Detection](anomaly.png)
+![Anomaly Detection](https://naji-najari.github.io/images/anomaly.png)
 
 Contact Information
 ------
