@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* !`June 2022`: A french papent is submitted to the INPI (Institut National de la Propriété Industrielle). This patent is about network traffic anomaly detection for IoT device maintenance. Click [here](https://naji-najari.github.io/patents/) for more details. 
+* `June 2022`: A french papent is submitted to the INPI (Institut National de la Propriété Industrielle). This patent is about network traffic anomaly detection for IoT device maintenance. Click [here](https://naji-najari.github.io/patents/) for more details. 
 
 * `January 2022`: A new paper is accepted at the 36th International Conference on Advanced Information Networking and Applications   ([AINA](http://voyager.ce.fit.ac.jp/conf/aina/2022/)), 2022. Click [here](https://naji-najari.github.io/publications/aina22) for more details. 
 
