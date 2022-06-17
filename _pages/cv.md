@@ -8,21 +8,45 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am a PhD student at Orange Labs and INSA Lyon in the team [IMAGINE (LIRIS)](https://liris.cnrs.fr/equipe/imagine).
+I am a PhD student at Orange Labs and INSA Lyon. You find my CV [here](https://naji-najari.github.io/cv.pdf)
+
+Work experience
+======
+
+* `Nov 2019 - Now`
+__AI researcher: industry-academia thesis__
+	- Orange & INSA Lyon 
+	- Studying machine learning-based anomaly detection, applied to network monitoring
+	- Publishing papers at international conferences
+	- Submitting two patents to INPI
+	- Reviewing conference papers
+	- Communicating research results
+
+* `Feb 2018 - Aug 2019`
+__AI research intern__
+	- Orange Innovation Meylan & Ensimag
+	- Conducting research on IoT device fingerprinting using machine learning 
+	- Publishing a paper at an international IEEE conference
+	- supervised by [Samuel BERLEMONT (Orange Labs)](https://dblp.org/pid/134/0509.html) and [Martin Heusse (Ensimag)](http://lig-membres.imag.fr/heusse/). 
+
+* `Jun 2018 - Aug 2018`
+__Internship in  mobile application development__	
+	- [LSI technologies](http://www.lsitechnologies.fr/)
+  
+
 
 Education
 ======
 * `2019-2022` 
 __[PhD](http://www.theses.fr/s242130) degree in computer science from INSA Lyon university__  
-	- CIFRE with Orange Labs Meylan.
-	- Title : smart device monitoring and behavior analysis.
-	- Topics : anomaly detection, deep learning, machine learning, IoT, device management.
+	- CIFRE with Orange Innovation Meylan.
+	- Title : robust unsupervised anomaly detection, applied to network traffic monitoring
+	- Topics :  unsupervised anomaly detection, transformers, autoencoders, variational autoencoders, extreme value theory, robust training, data processing
 	- Supervised by [Christophe GARCIA (LIRIS)](https://christophegarciafr.wixsite.com/home-page/), [Stefan DUFFNER (LIRIS)](http://u0016403263.user.hosting-agency.de/), [Grégoire LEFEBVRE (Orange Labs)](https://sites.google.com/site/gregoirelefebvre2/), and [Samuel BERLEMONT (Orange Labs)](https://dblp.org/pid/134/0509.html). 
 
 * `2018-2019`
 __Master's Degree in Computer Science at Ensimag__
 	- Master of science in informatics at Grenoble : data science
-	- ENSIMAG: École Nationale Supérieure d'Informatique et de Mathématiques Appliquées, Grenoble INP.
 	- Topics : data management, distributed systems, machine learning, data mining, probability, computer vision, convex and distributed optimization. 
 	
 * `2017-2019`
@@ -41,19 +65,7 @@ __Preparatory classes for the grandes écoles (CPGE: Classes Préparatoires aux 
 	
 	
 
-Work experience
-======
-* `Feb 2018 - Aug 2019`
-__R&D internship__
-	- Orange Labs Meylan & Ensimag
-	- Title : IoT device reindentification using machine learning
-	- Topics : data science, time-series modeling, network traffic analysis, IoT, LSTMs, HMMs.
-	- supervised by [Samuel BERLEMONT (Orange Labs)](https://dblp.org/pid/134/0509.html) and [Martin Heusse (Ensimag)](http://lig-membres.imag.fr/heusse/). 
 
-* `Jun 2018 - Aug 2018`
-__Internship in  mobile application development__	
-	- [LSI technologies](http://www.lsitechnologies.fr/)
-  
 Skills
 ======
 * __Theoretical__: Anomaly detection, Data mining and pattern recognition, Machine learning, Time-series analysis.
