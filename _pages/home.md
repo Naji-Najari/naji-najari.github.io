@@ -17,7 +17,7 @@ My CV: click [here](https://naji-najari.github.io/cv.pdf)
 
 Research Topics
 ------
-Anomaly Detection, Machine Learning, Time Series Analysis, Data Processing, Internet of Things (IoT), Smart Home, Device Management.
+Anomaly Detection, Machine Learning, Time Series Analysis, Robust Training, Extreme Value Theory, Data Processing, Internet of Things (IoT), Smart Home and Device Management.
 
 
 Contact Information
