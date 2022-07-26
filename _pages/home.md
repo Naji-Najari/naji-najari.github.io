@@ -28,6 +28,6 @@ Anomaly Detection, Machine Learning, Time Series Analysis, Robust Training, Extr
 Contact Information
 ------
 * Email: naji.najari@orange.com
-* Phone: +33 4 38 42 80 65
-* Mail: Orange Labs, 28 Chemin du Vieux Chêne, 38240 Meylan.
+* Phone: +33 6 98 28 43 44
+* Mail: Orange Innovation, 22 Chemin du Vieux Chêne, 38240 Meylan.
 
